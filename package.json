@@ -2,7 +2,7 @@
   "author": "Tom Zhou",
   "name": "wspp-stream",
   "description": "Duplex stream on wspp websocket",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "repository": {
     "type": "git",
     "url": "git://github.com/InstantWebP2P/wspp-stream.git"
@@ -15,7 +15,7 @@
     "wspp"
   ],
   "dependencies": {
-    "wspp": "0.7.1",
+    "wspp": "0.7.2",
     "readable-stream": "1.0.33"
   }
 }
